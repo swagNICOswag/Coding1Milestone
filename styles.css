@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  .milestone1 {
+    background-color: #ee69ff; /* Pink */
+    color: #00eeff;
+  }
+  
+  .milestone2 {
+    background-color: #3453a8; /* Green */
+    color: #fffb0e;
+  }
+  
+  .milestone3 {
+    background-color: #8BC34A; /* Yellow-Green */
+    color: #ff0000;
+  }
+  
+  .milestone4 {
+    background-color: #d65854; /* Teal */
+    color: #1924f3;
+  }
+  
+  .milestone5 {
+    background-color: #9C27B0; /* Purple */
+    color: #09ff00;
+  }
+  
+  img {
+    width: 200px;
+    height: 150px;
+    border: none;
+    margin: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 2px solid #000000;
+  }
+  
+  .row {
+    border: 2px solid #000000;
+    padding: 20px;
+  }
+  
+  #th {
+    border: 2px double black;
+    padding: 20px;
+  }
+  
+  #td {
+    border: 2px inset black;
+  }
+  
+  .header {
+    font-size: 40px;
+    font-family: Fantasy;
+    color: red;
+    text-align: center;
+    transition: color 0.5s;
+  }
+  
+  .header:hover {
+    color: SkyBlue;
+  }
