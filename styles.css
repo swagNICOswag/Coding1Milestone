@@ -74,3 +74,6 @@ body {
   .header:hover {
     color: SkyBlue;
   }
+  body {
+    text-align: center;
+  }
